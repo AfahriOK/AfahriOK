@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Afahri Kerr👋
+
+I recently graduated from Southern New Hampshire University with a bachelors in Computer Science. I have always had an interest in technology through my love of video games growing up so I decided to pursue a career in tech. I wasn't sure if I wanted to focus on game development only so after some research I decided to take the computer science route which I am glad I did because I have learned so much more than just game development. Through my academic studies I have learned many programming languages such as Java, Python, C#, C++, JavaScript, etc.. and also learned how to utilize their libraries and frameworks to build functional mobile, web, and other applications. Technology has a lot to offer so I am always striving to improve my skills and I am excited to be a part of shaping the future through it.
 
 <!--
 **AfahriOK/AfahriOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
